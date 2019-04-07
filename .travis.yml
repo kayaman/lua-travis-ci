@@ -1,4 +1,4 @@
-language: C # doesn't relly matter
+language: python
 sudo: false
 
 env:
